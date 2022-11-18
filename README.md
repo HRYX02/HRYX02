@@ -3,4 +3,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HRYX02)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRYX02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=HRYX02&left_color=green&right_color=red)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=HRYX02&left_color=green&right_color=red)
