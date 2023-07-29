@@ -5,4 +5,4 @@
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
-![暗色](https://raw.githubusercontent.com/HRYX02/HRYX02/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![暗色](https://raw.githubusercontent.com/HRYX02/HRYX02/github-contribution-grid-snake.svg#gh-dark-mode-only)
